@@ -1,0 +1,2 @@
+rebal_int,top_n,SMA_S,SMA_L,stop,rolling_l,rolling_m,rolling_s,tot_ret,cagr,sharpe,perf_score,max_dd
+4,"(25, 20, 10)",2,139,15,34,21,10,2.86,0.19,4.21,12.04,-0.22

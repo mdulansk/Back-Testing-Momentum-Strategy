@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema targetNamespace="http://www.federalreserve.gov/structure/compact/PRATES_PRATES_POLICY_RATES" elementFormDefault="qualified" attributeFormDefault="unqualified" xmlns="http://www.federalreserve.gov/structure/compact/PRATES_PRATES_POLICY_RATES" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:frb="http://www.federalreserve.gov/structure/compact/common">
+ <xs:import namespace="http://www.federalreserve.gov/structure/compact/common" schemaLocation="frb_common.xsd" />
+ <xs:element name="Series" type="SeriesType" substitutionGroup="frb:Series" />
+ <xs:complexType name="SeriesType">
+  <xs:complexContent>
+   <xs:extension base="frb:SeriesType">
+    <xs:attribute name="INT_RATES_PAID" type="CL_INT_RATES_PAID" use="required" />
+   </xs:extension>
+  </xs:complexContent>
+ </xs:complexType>
+ <xs:simpleType name="CL_INT_RATES_PAID">
+  <xs:restriction base="xs:string">
+   <xs:enumeration value="IOR">
+    <xs:annotation>
+     <xs:documentation>Interest on Reserves</xs:documentation>
+    </xs:annotation>
+   </xs:enumeration>
+   <xs:enumeration value="RRP">
+    <xs:annotation>
+     <xs:documentation>Interest on Reverse Repos</xs:documentation>
+    </xs:annotation>
+   </xs:enumeration>
+  </xs:restriction>
+ </xs:simpleType>
+</xs:schema>

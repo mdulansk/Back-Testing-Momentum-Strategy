@@ -1,0 +1,208 @@
+Date,Ticker,Name,Action
+12/24/07,HOLX,"Hologic, Inc.",Added
+12/24/07,FMCN,Focus Media Holding Limited,Added
+12/24/07,HANS,Hansen Natural Corporation,Added
+12/24/07,STLD,"Steel Dynamics, Inc.",Added
+12/24/07,SRCL,"Stericycle, Inc.",Added
+12/24/07,ERIC,LM Ericsson Telephone Company,Removed
+12/24/07,PTEN,"Patterson-UTI Energy, Inc.",Removed
+12/24/07,ROST,"Ross Stores, Inc.",Removed
+12/24/07,SEPR,Sepracor Inc.,Removed
+12/24/07,XMSR,XM Satellite Radio Holdings Inc.,Removed
+12/22/08,ADP,"Automatic Data Processing, Inc.",Added
+12/22/08,FSLR,"First Solar, Inc.",Added
+12/22/08,LIFE,Life Technologies Corporation,Added
+12/22/08,ROST,"Ross Stores, Inc.",Added
+12/22/08,MXIM,"Maxim Integrated Products, Inc.",Added
+12/22/08,ILMN,"Illumina, Inc.",Added
+12/22/08,PPDI,"Pharmaceutical Product Development, Inc.",Added
+12/22/08,ORLY,"O'Reilly Automotive, Inc.",Added
+12/22/08,URBN,"Urban Outfitters, Inc.",Added
+12/22/08,JBHT,"J.B. Hunt Transport Services, Inc.",Added
+12/22/08,WCRX,Warner Chilcott Limited,Added
+12/22/08,AMLN,"Amylin Pharmaceuticals, Inc.",Removed
+12/22/08,CDNS,"Cadence Design Systems, Inc.",Removed
+12/22/08,DISCA,"Discovery Communications, Inc.'s Class A",Removed
+12/22/08,LAMR,Lamar Advertising Company,Removed
+12/22/08,LEAP,"Leap Wireless International, Inc.",Removed
+12/22/08,LVLT,"Level 3 Communications, Inc.",Removed
+12/22/08,PETM,"PetSmart, Inc.",Removed
+12/22/08,SIRI,Sirius XM Radio Inc.,Removed
+12/22/08,SNDK,SanDisk Corporation,Removed
+12/22/08,VMED,Virgin Media Inc.,Removed
+12/22/08,WFMI,"Whole Foods Market, Inc.",Removed
+12/21/09,VOD,Vodafone Group Plc,Added
+12/21/09,MAT,"Mattel, Inc.",Added
+12/21/09,BMC,"BMC Software, Inc.",Added
+12/21/09,MYL,"Mylan, Inc.",Added
+12/21/09,QGEN,Qiagen N.V.,Added
+12/21/09,SNDK,SanDisk Corporation,Added
+12/21/09,VMED,Virgin Media Inc.,Added
+12/21/09,AKAM,"Akamai Technologies, Inc.",Removed
+12/21/09,HANS,Hansen Natural Corporation,Removed
+12/21/09,IACI,IAC/InterActive Corp,Removed
+12/21/09,LBTYA,Liberty Global's Class A Common Stock,Removed
+12/21/09,PPDI,"Pharmaceutical Product Development, Inc.",Removed
+12/21/09,RYAAY,Ryanair Holdings plc,Removed
+12/21/09,STLD,"Steel Dynamics, Inc.",Removed
+12/20/10,AKAM,"Akamai Technologies, Inc.",Added
+12/20/10,CTRP,"Ctrip.com International, Ltd.",Added
+12/20/10,DLTR,"Dollar Tree, Inc.",Added
+12/20/10,FFIV,"F5 Networks, Inc.",Added
+12/20/10,MU,"Micron Technology, Inc.",Added
+12/20/10,NFLX,"Netﬂix, Inc.",Added
+12/20/10,WFMI,"Whole Foods Market, Inc.",Added
+12/20/10,CTAS,Cintas Corporation,Removed
+12/20/10,DISH,DISH Network Corporation,Removed
+12/20/10,FWLT,Foster Wheeler AG,Removed
+12/20/10,HOLX,"Hologic, Inc.",Removed
+12/20/10,JBHT,"J.B. Hunt Transport Services, Inc.",Removed
+12/20/10,LOGI,Logitech International S.A.,Removed
+12/20/10,PDCO,"Patterson Companies, Inc.",Removed
+12/19/11,AVGO,Avago Technologies Limited,Added
+12/19/11,FOSL,"Fossil, Inc.",Added
+12/19/11,GOLD,Rangold Resources Limited,Added
+12/19/11,HANS,Hansen Natural Corporation,Added
+12/19/11,NUAN,"Nuance Communications, Inc.",Added
+12/19/11,FLIR,"FLIR Systems, Inc.",Removed
+12/19/11,ILMN,"Illumina, Inc.",Removed
+12/19/11,NIHD,"NII Holdings, Inc.",Removed
+12/19/11,QGEN,QIAGEN N.V.,Removed
+12/19/11,URBN,"Urban Outfitters, Inc.",Removed
+12/24/12,ADI,"Analog Devices, Inc.",Added
+12/24/12,CTRX,Catamaran Corporation,Added
+12/24/12,DISCA,"Discovery Communications, Inc.",Added
+12/24/12,EQIX,"Equinix, Inc.",Added
+12/24/12,LBTYA,"Liberty Global, Inc.",Added
+12/24/12,LMCA,Liberty Media Corporation,Added
+12/24/12,REGN,"Regeneron Pharmaceuticals, Inc.",Added
+12/24/12,SBAC,SBA Communications Corporation,Added
+12/24/12,VRSK,"Verisk Analytics, Inc.",Added
+12/24/12,WDC,Western Digital Corporation,Added
+12/24/12,APOL,"Apollo Group, Inc.",Removed
+12/24/12,EA,Electronic Arts Inc.,Removed
+12/24/12,FLEX,Flextronics International Ltd.,Removed
+12/24/12,GMCR,"Green Mountain Coffee Roasters, Inc.",Removed
+12/24/12,LRCX,Lam Research Corporation,Removed
+12/24/12,MRVL,Marvell Technology Group Ltd.,Removed
+12/24/12,NFLX,"Netflix, Inc.",Removed
+12/24/12,RIMM,Research In Motion Limited,Removed
+12/24/12,VRSN,"VeriSign, Inc.",Removed
+12/24/12,WCRX,Warner Chilcott plc,Removed
+12/23/13,DISH,DISH Network Corporation,Added
+12/23/13,ILMN,"Illumina, Inc.",Added
+12/23/13,NXPI,NXP Semiconductors N.V.,Added
+12/23/13,TRIP,"TripAdvisor, Inc.",Added
+12/23/13,TSCO,Tractor Supply Company,Added
+12/23/13,FOSL,"Fossil Group, Inc.",Removed
+12/23/13,MCHP,Microchip Technology Incorporated,Removed
+12/23/13,NUAN,"Nuance Communications, Inc.",Removed
+12/23/13,SHLD,Sears Holdings Corporation,Removed
+12/23/13,XRAY,DENTSPLY International Inc.,Removed
+12/22/14,AAL,"American Airlines Group, Inc.",Added
+12/22/14,EA,Electronic Arts Inc.,Added
+12/22/14,LRCX,Lam Research Corporation,Added
+12/22/14,CMCSK,Comcast Corporation Class A,Added
+12/22/14,FOX,"Twenty-First Century Fox, Inc. Class B",Added
+12/22/14,LBTYK,Liberty Global plc Class C,Added
+12/22/14,EXPE,"Expedia, Inc.",Removed
+12/22/14,FFIV,"F5 Networks, Inc.",Removed
+12/22/14,MXIM,"Maxim Integrated Products, Inc.",Removed
+12/21/15,CTRP,"Ctrip.com International, Ltd.",Added
+12/21/15,ENDP,Endo International plc,Added
+12/21/15,EXPE,"Expedia, Inc.",Added
+12/21/15,MXIM,"Maxim Integrated Products, Inc.",Added
+12/21/15,NCLH,Norwegian Cruise Line Holdings Ltd.,Added
+12/21/15,TMUS,"T-Mobile US, Inc.",Added
+12/21/15,ULTA,"Ulta Salon, Cosmetics & Fragrance, Inc.",Added
+12/21/15,CHRW,"C.H. Robinson Worldwide, Inc.",Removed
+12/21/15,EXPD,"Expeditors International of Washington, Inc.",Removed
+12/21/15,GMCR,"Keurig Green Mountain, Inc.",Removed
+12/21/15,GRMN,Garmin Ltd.,Removed
+12/21/15,SPLS,"Staples, Inc.",Removed
+12/21/15,VIP,VimpelCom Ltd.,Removed
+12/21/15,WYNN,"Wynn Resorts, Limited",Removed
+12/21/15,LILA,LiLAC Class A Ordinary Shares,Removed
+12/21/15,LILAC,LiLAC Class C Ordinary Shares,Removed
+12/19/16,CTAS,Cintas Corporation,Added
+12/19/16,HAS,"Hasbro, Inc.",Added
+12/19/16,HOLX,"Hologic, Inc.",Added
+12/19/16,KLAC,KLA-Tencor Corporation,Added
+12/19/16,BBBY,Bed Bath & Beyond Inc.,Removed
+12/19/16,NTAP,"NetApp, Inc.",Removed
+12/19/16,SRCL,"Stericycle, Inc.",Removed
+12/19/16,WFM,"Whole Foods Market, Inc.",Removed
+12/18/17,ASML,ASML Holding N.V.,Added
+12/18/17,CDNS,"Cadence Design Systems, Inc.",Added
+12/18/17,SNPS,"Synopsys, Inc.",Added
+12/18/17,TTWO,"Take-Two Interactive Software, Inc.",Added
+12/18/17,WDAY,"Workday, Inc.",Added
+12/18/17,AKAM,"Akamai Technologies, Inc.",Removed
+12/18/17,DISCA,Discovery Communications Series A,Removed
+12/18/17,DISCK,Discovery Communications Series C,Removed
+12/18/17,NCLH,Norwegian Cruise Line Holdings Ltd.,Removed
+12/18/17,TSCO,Tractor Supply Company,Removed
+12/18/17,VIAB,Viacom Inc.,Removed
+12/24/18,AMD,"Advanced Micro Devices, Inc.",Added
+12/24/18,LULU,lululemon athletica inc.,Added
+12/24/18,NTAP,"NetApp, Inc.",Added
+12/24/18,UAL,"United Continental Holdings, Inc.",Added
+12/24/18,VRSN,"VeriSign, Inc.",Added
+12/24/18,WLTW,Willis Towers Watson Public Limited Company,Added
+12/24/18,ESRX,Express Scripts Holding Company,Removed
+12/24/18,HOLX,"Hologic, Inc.",Removed
+12/24/18,QRTEA,"Qurate Retail, Inc.",Removed
+12/24/18,SHPG,Shire plc,Removed
+12/24/18,STX,Seagate Technology PLC,Removed
+12/24/18,VOD,Vodafone Group Plc,Removed
+12/23/19,ANSS,"ANSYS, Inc.",Added
+12/23/19,CDW,CDW Corporation,Added
+12/23/19,CPRT,"Copart, Inc.",Added
+12/23/19,CSGP,"CoStar Group, Inc.",Added
+12/23/19,SGEN,"Seattle Genetics, Inc.",Added
+12/23/19,SPLK,Splunk Inc.,Added
+12/23/19,HAS,"Hasbro, Inc.",Removed
+12/23/19,HSIC,"Henry Schein, Inc.",Removed
+12/23/19,JBHT,"J.B. Hunt Transport Services, Inc.",Removed
+12/23/19,MYL,Mylan N.V.,Removed
+12/23/19,NLOK,NortonLifeLock Inc.,Removed
+12/23/19,WYNN,"Wynn Resorts, Limited",Removed
+12/21/20,AEP,"American Electric Power Company, Inc.",Added
+12/21/20,MRVL,Marvell Technology Group Ltd.,Added
+12/21/20,MTCH,"Match Group, Inc.",Added
+12/21/20,OKTA,"Okta, Inc.",Added
+12/21/20,PTON,"Peloton Interactive, Inc.",Added
+12/21/20,TEAM,Atlassian Corporation Plc,Added
+12/21/20,BMRN,BioMarin Pharmaceutical Inc.,Removed
+12/21/20,CTXS,"Citrix Systems, Inc.",Removed
+12/21/20,EXPE,"Expedia Group, Inc.",Removed
+12/21/20,LBTYA,Liberty Global plc,Removed
+12/21/20,LBTYK,Liberty Global plc,Removed
+12/21/20,TTWO,"Take-Two Interactive Software, Inc.",Removed
+12/21/20,ULTA,"Ulta Beauty, Inc.",Removed
+12/20/21,ABNB,"Airbnb, Inc.",Added
+12/20/21,FTNT,"Fortinet, Inc.",Added
+12/20/21,PANW,"Palo Alto Networks, Inc.",Added
+12/20/21,LCID,"Lucid Group, Inc.",Added
+12/20/21,ZS,"Zscaler, Inc.",Added
+12/20/21,DDOG,"Datadog, Inc.",Added
+12/20/21,CDW,CDW Corporation,Removed
+12/20/21,FOXA,Fox Corporation,Removed
+12/20/21,FOX,Fox Corporation,Removed
+12/20/21,CERN,Cerner Corporation,Removed
+12/20/21,CHKP,Check Point Software Technologies Ltd.,Removed
+12/20/21,TCOM,Trip.com Group Limited,Removed
+12/20/21,INCY,Incyte Corporation,Removed
+12/19/22,CSGP,"CoStar Group, Inc.",Added
+12/19/22,RIVN,"Rivian Automotive, Inc.",Added
+12/19/22,WBD,"Warner Bros. Discovery, Inc.",Added
+12/19/22,GFS,GlobalFoundries Inc.,Added
+12/19/22,BKR,Baker Hughes Company,Added
+12/19/22,FANG,"Diamondback Energy, Inc.",Added
+12/19/22,VRSN,"VeriSign, Inc.",Removed
+12/19/22,SWKS,"Skyworks Solutions, Inc.",Removed
+12/19/22,SPLK,Splunk Inc.,Removed
+12/19/22,BIDU,"Baidu, Inc.",Removed
+12/19/22,MTCH,"Match Group, Inc.",Removed
+12/19/22,DOCU,"DocuSign, Inc.",Removed
+12/19/22,NTES,"NetEase, Inc.",Removed

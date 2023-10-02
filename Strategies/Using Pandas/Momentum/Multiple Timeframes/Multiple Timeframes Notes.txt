@@ -1,0 +1,66 @@
+
+TO DO:
+1. Verify that returns are calculated from correct date (next period, not same as when stock is selected)
+2. Verify that return data doesn't contain any anomalies, like when price goes from 0 to something when it is added to the index.
+2. For optimization of rolling period lengths, only allow combo where L > M > Series
+3. Make script more modular:
+    Object-oriented, or just split out functions into modules?
+
+
+In optimize function, we need to use itertools to get all the permutations of parameters, not just all combinations of one parameter combined with static values for other parameters. This will, however, increase the number of possible combinations exponentially.
+
+Option 1: Intelligent optimization:
+    1. Start with provided values
+    2. Loop through each parameter and test all possible values for it while leaving the other parameters at their static values.
+        a. After testing all values for the parameter, update its value to the one which has the best performance.
+        b. Repeat step b. for remaining parameters.
+
+Option 2: Brute force using Itertools:
+create list for each parameter group which will contain all the permutations of values. We can iterate through the combos 
+and drop the ones that aren't appropriate, such as 3 sma values where the first value should be greater than the second value
+which should be larger than the third value.
+Once we have lists for all the valid combinations, we can use itertools to create list of all the possible combinations of
+combinations. Phew
+
+1. Create new param_combos dictionary which will be used to spawn strategy ojects to run backtests.
+2. Iterate through params_to_optimize dictionary and grab the keys and values.
+
+Create tuples of related params: Why?
+    benchmark_sma_lengths = tuple(benchmark_sma_short, benchmark_sma_long)
+    rolling_periods = tuple(rolling_period_long, rolling_period_med, rolling_period_short)
+    holdings_per_period = tuple(qty_long_period, qty_med_period, qty_short_period)
+
+Params to optimize:
+    benchmark_sma_lengths
+    rolling_periods
+    stop_loss (this doesn't seem to improve performance or reduce risk)
+    
+For quick test, change param_multiplier to 0 so we only test one value for each parameter instead of range.
+param_multiplier: float = 1.5
+
+=================================================================================================================================
+OLD STUFF FOR REFERENCE
+
+Change return calculation to use pct_change after resample. We won't add 1 to the return since this causes problems when prices go from 0 to >0, or from >1 to 0.
+daily change
+weekly change
+monthly change
+
+Places that we need to change due to difference in return handling - need to sum instead of take product:
+206: daily_returns = (daily_prices_df.pct_change()+1)[1:] # Don't add 1 to pct change.
+207 resample daily prices, then calculate pct change
+208 resample daily prices, then calculate pct change
+
+216  return df.rolling(lookback).apply(np.prod)  # Don't use .prod, use cumsum? instead
+
+258  period_daily_ret = period_daily_ret-1 # Don't need to subtract 1 anymore
+283  return(curr_ret+1)  # Don't need to do this anymore
+298  period_daily_ret = period_daily_ret-1  # Don't add 1 to pct change.
+337  return(curr_ret+1) # Don't need to do this anymore
+
+688  benchmark_returns = returns_df.mean(axis=1) # Not sure is we want to take the mean return?
+691  benchmark_returns = (benchmark_daily_returns + 1)[1:].resample(parameter_data.resample_period).prod()  # Don't add 1 to returns
+694  benchmark_return_series = pd.Series(benchmark_returns, index=returns_df.index[1:])-1  # Don't need to subtract 1
+
+
+

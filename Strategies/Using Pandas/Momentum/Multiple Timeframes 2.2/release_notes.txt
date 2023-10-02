@@ -1,0 +1,14 @@
+2.2
+Fixed Trailing stop to work with new resample / rebalance changes
+
+2.1
+Changed return calculations to use log returns until end of optimization and strategy run, 
+at which time returns are converted to simple returns to pass to quantstats module.
+Optimization:
+	Implmented checks to ensure that period length parameter combinations make sense, 
+	i.e. SMA_L length > SMA_S length.
+
+2.0
+Split out functions into modules. Still using gross returns for calculations.
+
+	

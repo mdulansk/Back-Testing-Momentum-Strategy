@@ -1,0 +1,3 @@
+
+Changes to v2.1:
+Changed return calculations to use log returns until after strategy has run. After strategy has run, return series is converted back to simple returns using exp() since the quantstats library expects simple return series.

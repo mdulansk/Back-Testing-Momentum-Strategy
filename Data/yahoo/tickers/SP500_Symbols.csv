@@ -1,0 +1,508 @@
+id,exchange_id,ticker,instrument,name,sector,currency,created_date,last_updated_date
+1920,,MMM,stock,3M Company,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1921,,ABT,stock,Abbott Laboratories,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1922,,ABBV,stock,AbbVie Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1923,,ABMD,stock,ABIOMED Inc,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1924,,ACN,stock,Accenture plc,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1925,,ATVI,stock,Activision Blizzard,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1926,,ADBE,stock,Adobe Systems Inc,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1927,,AMD,stock,Advanced Micro Devices Inc,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1928,,AAP,stock,Advance Auto Parts,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1929,,AES,stock,AES Corp,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1930,,AMG,stock,Affiliated Managers Group Inc,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1931,,AFL,stock,AFLAC Inc,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1932,,A,stock,Agilent Technologies Inc,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1933,,APD,stock,Air Products & Chemicals Inc,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1934,,AKAM,stock,Akamai Technologies Inc,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1935,,ALK,stock,Alaska Air Group Inc,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1936,,ALB,stock,Albemarle Corp,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1937,,ARE,stock,Alexandria Real Estate Equities,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1938,,ALXN,stock,Alexion Pharmaceuticals,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1939,,ALGN,stock,Align Technology,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1940,,ALLE,stock,Allegion,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1941,,AGN,stock,"Allergan, Plc",Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1942,,ADS,stock,Alliance Data Systems,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1943,,LNT,stock,Alliant Energy Corp,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1944,,ALL,stock,Allstate Corp,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1945,,GOOGL,stock,Alphabet Inc Class A,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1946,,GOOG,stock,Alphabet Inc Class C,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1947,,MO,stock,Altria Group Inc,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1948,,AMZN,stock,Amazon.com Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1949,,AMCR,stock,Amcor plc,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1950,,AEE,stock,Ameren Corp,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1951,,AAL,stock,American Airlines Group,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1952,,AEP,stock,American Electric Power,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1953,,AXP,stock,American Express Co,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1954,,AIG,stock,American International Group,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1955,,AMT,stock,American Tower Corp.,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1956,,AWK,stock,American Water Works Company Inc,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1957,,AMP,stock,Ameriprise Financial,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1958,,ABC,stock,AmerisourceBergen Corp,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1959,,AME,stock,AMETEK Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1960,,AMGN,stock,Amgen Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1961,,APH,stock,Amphenol Corp,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1962,,ADI,stock,"Analog Devices, Inc.",Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1963,,ANSS,stock,ANSYS,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1964,,ANTM,stock,Anthem,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1965,,AON,stock,Aon plc,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1966,,AOS,stock,A.O. Smith Corp,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1967,,APA,stock,Apache Corporation,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1968,,AIV,stock,Apartment Investment & Management,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1969,,AAPL,stock,Apple Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1970,,AMAT,stock,Applied Materials Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1971,,APTV,stock,Aptiv Plc,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1972,,ADM,stock,Archer-Daniels-Midland Co,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1973,,ARNC,stock,Arconic Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1974,,ANET,stock,Arista Networks,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1975,,AJG,stock,Arthur J. Gallagher & Co.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1976,,AIZ,stock,Assurant,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1977,,ATO,stock,Atmos Energy Corp,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1978,,T,stock,AT&T Inc.,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1979,,ADSK,stock,Autodesk Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1980,,ADP,stock,Automatic Data Processing,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1981,,AZO,stock,AutoZone Inc,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1982,,AVB,stock,"AvalonBay Communities, Inc.",Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1983,,AVY,stock,Avery Dennison Corp,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1984,,BHGE,stock,"Baker Hughes, a GE Company",Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1985,,BLL,stock,Ball Corp,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1986,,BAC,stock,Bank of America Corp,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1987,,BK,stock,The Bank of New York Mellon Corp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1988,,BAX,stock,Baxter International Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1989,,BBT,stock,BB&T Corporation,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1990,,BDX,stock,Becton Dickinson,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1991,,BRK.B,stock,Berkshire Hathaway,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1992,,BBY,stock,Best Buy Co. Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1993,,BIIB,stock,Biogen Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1994,,BLK,stock,BlackRock,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1995,,HRB,stock,Block H&R,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1996,,BA,stock,Boeing Company,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1997,,BKNG,stock,Booking Holdings Inc,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1998,,BWA,stock,BorgWarner,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+1999,,BXP,stock,Boston Properties,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2000,,BSX,stock,Boston Scientific,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2001,,BMY,stock,Bristol-Myers Squibb,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2002,,AVGO,stock,Broadcom Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2003,,BR,stock,Broadridge Financial Solutions,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2004,,BF.B,stock,Brown-Forman Corp.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2005,,CHRW,stock,C. H. Robinson Worldwide,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2006,,COG,stock,Cabot Oil & Gas,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2007,,CDNS,stock,Cadence Design Systems,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2008,,CPB,stock,Campbell Soup,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2009,,COF,stock,Capital One Financial,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2010,,CPRI,stock,Capri Holdings,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2011,,CAH,stock,Cardinal Health Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2012,,KMX,stock,Carmax Inc,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2013,,CCL,stock,Carnival Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2014,,CAT,stock,Caterpillar Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2015,,CBOE,stock,Cboe Global Markets,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2016,,CBRE,stock,CBRE Group,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2017,,CBS,stock,CBS Corp.,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2018,,CE,stock,Celanese,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2019,,CNC,stock,Centene Corporation,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2020,,CNP,stock,CenterPoint Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2021,,CTL,stock,CenturyLink Inc,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2022,,CERN,stock,Cerner,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2023,,CF,stock,CF Industries Holdings Inc,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2024,,SCHW,stock,Charles Schwab Corporation,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2025,,CHTR,stock,Charter Communications,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2026,,CVX,stock,Chevron Corp.,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2027,,CMG,stock,Chipotle Mexican Grill,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2028,,CB,stock,Chubb Limited,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2029,,CHD,stock,Church & Dwight,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2030,,CI,stock,CIGNA Corp.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2031,,XEC,stock,Cimarex Energy,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2032,,CINF,stock,Cincinnati Financial,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2033,,CTAS,stock,Cintas Corporation,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2034,,CSCO,stock,Cisco Systems,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2035,,C,stock,Citigroup Inc.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2036,,CFG,stock,Citizens Financial Group,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2037,,CTXS,stock,Citrix Systems,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2038,,CLX,stock,The Clorox Company,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2039,,CME,stock,CME Group Inc.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2040,,CMS,stock,CMS Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2041,,KO,stock,Coca-Cola Company,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2042,,CTSH,stock,Cognizant Technology Solutions,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2043,,CL,stock,Colgate-Palmolive,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2044,,CMCSA,stock,Comcast Corp.,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2045,,CMA,stock,Comerica Inc.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2046,,CAG,stock,Conagra Brands,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2047,,CXO,stock,Concho Resources,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2048,,COP,stock,ConocoPhillips,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2049,,ED,stock,Consolidated Edison,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2050,,STZ,stock,Constellation Brands,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2051,,COO,stock,The Cooper Companies,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2052,,CPRT,stock,Copart Inc,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2053,,GLW,stock,Corning Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2054,,CTVA,stock,Corteva,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2055,,COST,stock,Costco Wholesale Corp.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2056,,COTY,stock,"Coty, Inc",Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2057,,CCI,stock,Crown Castle International Corp.,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2058,,CSX,stock,CSX Corp.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2059,,CMI,stock,Cummins Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2060,,CVS,stock,CVS Health,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2061,,DHI,stock,D. R. Horton,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2062,,DHR,stock,Danaher Corp.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2063,,DRI,stock,Darden Restaurants,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2064,,DVA,stock,DaVita Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2065,,DE,stock,Deere & Co.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2066,,DAL,stock,Delta Air Lines Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2067,,XRAY,stock,Dentsply Sirona,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2068,,DVN,stock,Devon Energy,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2069,,FANG,stock,Diamondback Energy,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2070,,DLR,stock,Digital Realty Trust Inc,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2071,,DFS,stock,Discover Financial Services,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2072,,DISCA,stock,Discovery Inc. Class A,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2073,,DISCK,stock,Discovery Inc. Class C,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2074,,DISH,stock,Dish Network,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2075,,DG,stock,Dollar General,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2076,,DLTR,stock,Dollar Tree,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2077,,D,stock,Dominion Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2078,,DOV,stock,Dover Corp.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2079,,DOW,stock,Dow Inc.,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2080,,DTE,stock,DTE Energy Co.,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2081,,DUK,stock,Duke Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2082,,DRE,stock,Duke Realty Corp,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2083,,DD,stock,DuPont de Nemours Inc,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2084,,DXC,stock,DXC Technology,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2085,,ETFC,stock,E*Trade,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2086,,EMN,stock,Eastman Chemical,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2087,,ETN,stock,Eaton Corporation,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2088,,EBAY,stock,eBay Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2089,,ECL,stock,Ecolab Inc.,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2090,,EIX,stock,Edison Int'l,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2091,,EW,stock,Edwards Lifesciences,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2092,,EA,stock,Electronic Arts,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2093,,EMR,stock,Emerson Electric Company,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2094,,ETR,stock,Entergy Corp.,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2095,,EOG,stock,EOG Resources,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2096,,EFX,stock,Equifax Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2097,,EQIX,stock,Equinix,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2098,,EQR,stock,Equity Residential,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2099,,ESS,stock,"Essex Property Trust, Inc.",Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2100,,EL,stock,Estee Lauder Cos.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2101,,EVRG,stock,Evergy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2102,,ES,stock,Eversource Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2103,,RE,stock,Everest Re Group Ltd.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2104,,EXC,stock,Exelon Corp.,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2105,,EXPE,stock,Expedia Group,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2106,,EXPD,stock,Expeditors,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2107,,EXR,stock,Extra Space Storage,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2108,,XOM,stock,Exxon Mobil Corp.,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2109,,FFIV,stock,F5 Networks,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2110,,FB,stock,"Facebook, Inc.",Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2111,,FAST,stock,Fastenal Co,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2112,,FRT,stock,Federal Realty Investment Trust,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2113,,FDX,stock,FedEx Corporation,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2114,,FIS,stock,Fidelity National Information Services,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2115,,FITB,stock,Fifth Third Bancorp,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2116,,FE,stock,FirstEnergy Corp,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2117,,FRC,stock,First Republic Bank,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2118,,FLT,stock,FleetCor Technologies Inc,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2119,,FLIR,stock,FLIR Systems,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2120,,FLS,stock,Flowserve Corporation,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2121,,FMC,stock,FMC Corporation,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2122,,F,stock,Ford Motor,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2123,,FTNT,stock,Fortinet,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2124,,FTV,stock,Fortive Corp,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2125,,FBHS,stock,Fortune Brands Home & Security,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2126,,FOXA,stock,Fox Corporation Class A,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2127,,FOX,stock,Fox Corporation Class B,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2128,,BEN,stock,Franklin Resources,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2129,,FCX,stock,Freeport-McMoRan Inc.,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2130,,GPS,stock,Gap Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2131,,GRMN,stock,Garmin Ltd.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2132,,IT,stock,Gartner Inc,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2133,,GD,stock,General Dynamics,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2134,,GE,stock,General Electric,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2135,,GIS,stock,General Mills,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2136,,GM,stock,General Motors,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2137,,GPC,stock,Genuine Parts,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2138,,GILD,stock,Gilead Sciences,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2139,,GPN,stock,Global Payments Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2140,,GS,stock,Goldman Sachs Group,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2141,,GWW,stock,Grainger (W.W.) Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2142,,HAL,stock,Halliburton Co.,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2143,,HBI,stock,Hanesbrands Inc,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2144,,HOG,stock,Harley-Davidson,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2145,,HIG,stock,Hartford Financial Svc.Gp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2146,,HAS,stock,Hasbro Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2147,,HCA,stock,HCA Healthcare,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2148,,HCP,stock,HCP Inc.,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2149,,HP,stock,Helmerich & Payne,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2150,,HSIC,stock,Henry Schein,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2151,,HSY,stock,The Hershey Company,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2152,,HES,stock,Hess Corporation,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2153,,HPE,stock,Hewlett Packard Enterprise,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2154,,HLT,stock,Hilton Worldwide Holdings Inc,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2155,,HFC,stock,HollyFrontier Corp,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2156,,HOLX,stock,Hologic,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2157,,HD,stock,Home Depot,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2158,,HON,stock,Honeywell Int'l Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2159,,HRL,stock,Hormel Foods Corp.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2160,,HST,stock,Host Hotels & Resorts,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2161,,HPQ,stock,HP Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2162,,HUM,stock,Humana Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2163,,HBAN,stock,Huntington Bancshares,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2164,,HII,stock,Huntington Ingalls Industries,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2165,,IEX,stock,IDEX Corporation,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2166,,IDXX,stock,IDEXX Laboratories,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2167,,INFO,stock,IHS Markit Ltd.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2168,,ITW,stock,Illinois Tool Works,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2169,,ILMN,stock,Illumina Inc,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2170,,IR,stock,Ingersoll-Rand PLC,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2171,,INTC,stock,Intel Corp.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2172,,ICE,stock,Intercontinental Exchange,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2173,,IBM,stock,International Business Machines,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2174,,INCY,stock,Incyte,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2175,,IP,stock,International Paper,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2176,,IPG,stock,Interpublic Group,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2177,,IFF,stock,Intl Flavors & Fragrances,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2178,,INTU,stock,Intuit Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2179,,ISRG,stock,Intuitive Surgical Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2180,,IVZ,stock,Invesco Ltd.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2181,,IPGP,stock,IPG Photonics Corp.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2182,,IQV,stock,IQVIA Holdings Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2183,,IRM,stock,Iron Mountain Incorporated,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2184,,JKHY,stock,Jack Henry & Associates,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2185,,JEC,stock,Jacobs Engineering Group,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2186,,JBHT,stock,J. B. Hunt Transport Services,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2187,,JEF,stock,Jefferies Financial Group,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2188,,SJM,stock,JM Smucker,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2189,,JNJ,stock,Johnson & Johnson,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2190,,JCI,stock,Johnson Controls International,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2191,,JPM,stock,JPMorgan Chase & Co.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2192,,JNPR,stock,Juniper Networks,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2193,,KSU,stock,Kansas City Southern,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2194,,K,stock,Kellogg Co.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2195,,KEY,stock,KeyCorp,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2196,,KEYS,stock,Keysight Technologies,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2197,,KMB,stock,Kimberly-Clark,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2198,,KIM,stock,Kimco Realty,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2199,,KMI,stock,Kinder Morgan,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2200,,KLAC,stock,KLA Corporation,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2201,,KSS,stock,Kohl's Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2202,,KHC,stock,Kraft Heinz Co,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2203,,KR,stock,Kroger Co.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2204,,LB,stock,L Brands Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2205,,LHX,stock,L3Harris Technologies,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2206,,LH,stock,Laboratory Corp. of America Holding,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2207,,LRCX,stock,Lam Research,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2208,,LW,stock,Lamb Weston Holdings Inc,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2209,,LEG,stock,Leggett & Platt,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2210,,LDOS,stock,Leidos Holdings,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2211,,LEN,stock,Lennar Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2212,,LLY,stock,Lilly (Eli) & Co.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2213,,LNC,stock,Lincoln National,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2214,,LIN,stock,Linde plc,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2215,,LKQ,stock,LKQ Corporation,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2216,,LMT,stock,Lockheed Martin Corp.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2217,,LOW,stock,Lowe's Cos.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2218,,LYB,stock,LyondellBasell,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2219,,MTB,stock,M&T Bank Corp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2220,,MAC,stock,Macerich,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2221,,M,stock,Macy's Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2222,,MRO,stock,Marathon Oil Corp.,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2223,,MPC,stock,Marathon Petroleum,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2224,,MKTX,stock,MarketAxess,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2225,,MAR,stock,Marriott Int'l.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2226,,MMC,stock,Marsh & McLennan,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2227,,MLM,stock,Martin Marietta Materials,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2228,,MAS,stock,Masco Corp.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2229,,MA,stock,Mastercard Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2230,,MKC,stock,McCormick & Co.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2231,,MXIM,stock,Maxim Integrated Products Inc,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2232,,MCD,stock,McDonald's Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2233,,MCK,stock,McKesson Corp.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2234,,MDT,stock,Medtronic plc,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2235,,MRK,stock,Merck & Co.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2236,,MET,stock,MetLife Inc.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2237,,MTD,stock,Mettler Toledo,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2238,,MGM,stock,MGM Resorts International,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2239,,MCHP,stock,Microchip Technology,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2240,,MU,stock,Micron Technology,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2241,,MSFT,stock,Microsoft Corp.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2242,,MAA,stock,Mid-America Apartments,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2243,,MHK,stock,Mohawk Industries,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2244,,TAP,stock,Molson Coors Brewing Company,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2245,,MDLZ,stock,Mondelez International,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2246,,MNST,stock,Monster Beverage,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2247,,MCO,stock,Moody's Corp,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2248,,MS,stock,Morgan Stanley,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2249,,MOS,stock,The Mosaic Company,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2250,,MSI,stock,Motorola Solutions Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2251,,MSCI,stock,MSCI Inc,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2252,,MYL,stock,Mylan N.V.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2253,,NDAQ,stock,"Nasdaq, Inc.",Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2254,,NOV,stock,National Oilwell Varco Inc.,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2255,,NKTR,stock,Nektar Therapeutics,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2256,,NTAP,stock,NetApp,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2257,,NFLX,stock,Netflix Inc.,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2258,,NWL,stock,Newell Brands,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2259,,NEM,stock,Newmont Goldcorp,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2260,,NWSA,stock,News Corp. Class A,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2261,,NWS,stock,News Corp. Class B,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2262,,NEE,stock,NextEra Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2263,,NLSN,stock,Nielsen Holdings,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2264,,NKE,stock,Nike,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2265,,NI,stock,NiSource Inc.,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2266,,NBL,stock,Noble Energy Inc,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2267,,JWN,stock,Nordstrom,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2268,,NSC,stock,Norfolk Southern Corp.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2269,,NTRS,stock,Northern Trust Corp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2270,,NOC,stock,Northrop Grumman,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2271,,NCLH,stock,Norwegian Cruise Line Holdings,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2272,,NRG,stock,NRG Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2273,,NUE,stock,Nucor Corp.,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2274,,NVDA,stock,Nvidia Corporation,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2275,,ORLY,stock,O'Reilly Automotive,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2276,,OXY,stock,Occidental Petroleum,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2277,,OMC,stock,Omnicom Group,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2278,,OKE,stock,ONEOK,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2279,,ORCL,stock,Oracle Corp.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2280,,PCAR,stock,PACCAR Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2281,,PKG,stock,Packaging Corporation of America,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2282,,PH,stock,Parker-Hannifin,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2283,,PAYX,stock,Paychex Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2284,,PYPL,stock,PayPal,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2285,,PNR,stock,Pentair plc,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2286,,PBCT,stock,People's United Financial,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2287,,PEP,stock,PepsiCo Inc.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2288,,PKI,stock,PerkinElmer,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2289,,PRGO,stock,Perrigo,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2290,,PFE,stock,Pfizer Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2291,,PM,stock,Philip Morris International,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2292,,PSX,stock,Phillips 66,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2293,,PNW,stock,Pinnacle West Capital,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2294,,PXD,stock,Pioneer Natural Resources,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2295,,PNC,stock,PNC Financial Services,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2296,,PPG,stock,PPG Industries,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2297,,PPL,stock,PPL Corp.,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2298,,PFG,stock,Principal Financial Group,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2299,,PG,stock,Procter & Gamble,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2300,,PGR,stock,Progressive Corp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2301,,PLD,stock,Prologis,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2302,,PRU,stock,Prudential Financial,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2303,,PEG,stock,Public Serv. Enterprise Inc.,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2304,,PSA,stock,Public Storage,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2305,,PHM,stock,Pulte Homes Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2306,,PVH,stock,PVH Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2307,,QRVO,stock,Qorvo,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2308,,PWR,stock,Quanta Services Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2309,,QCOM,stock,QUALCOMM Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2310,,DGX,stock,Quest Diagnostics,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2311,,RL,stock,Ralph Lauren Corporation,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2312,,RJF,stock,Raymond James Financial Inc.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2313,,RTN,stock,Raytheon Co.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2314,,O,stock,Realty Income Corporation,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2315,,REG,stock,Regency Centers Corporation,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2316,,RF,stock,Regions Financial Corp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2317,,RSG,stock,Republic Services Inc,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2318,,RMD,stock,ResMed,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2319,,RHI,stock,Robert Half International,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2320,,ROK,stock,Rockwell Automation Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2321,,ROL,stock,Rollins Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2322,,ROP,stock,Roper Technologies,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2323,,ROST,stock,Ross Stores,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2324,,RCL,stock,Royal Caribbean Cruises Ltd,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2325,,CRM,stock,Salesforce.com,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2326,,SBAC,stock,SBA Communications,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2327,,SLB,stock,Schlumberger Ltd.,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2328,,STX,stock,Seagate Technology,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2329,,SEE,stock,Sealed Air,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2330,,SRE,stock,Sempra Energy,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2331,,SHW,stock,Sherwin-Williams,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2332,,SPG,stock,Simon Property Group Inc,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2333,,SWKS,stock,Skyworks Solutions,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2334,,SLG,stock,SL Green Realty,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2335,,SNA,stock,Snap-on,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2336,,SO,stock,Southern Co.,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2337,,LUV,stock,Southwest Airlines,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2338,,SPGI,stock,"S&P Global, Inc.",Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2339,,SWK,stock,Stanley Black & Decker,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2340,,SBUX,stock,Starbucks Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2341,,STT,stock,State Street Corp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2342,,SYK,stock,Stryker Corp.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2343,,STI,stock,SunTrust Banks,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2344,,SIVB,stock,SVB Financial,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2345,,SYMC,stock,Symantec Corp.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2346,,SYF,stock,Synchrony Financial,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2347,,SNPS,stock,Synopsys Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2348,,SYY,stock,Sysco Corp.,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2349,,TMUS,stock,T-Mobile US,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2350,,TROW,stock,T. Rowe Price Group,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2351,,TTWO,stock,Take-Two Interactive,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2352,,TPR,stock,"Tapestry, Inc.",Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2353,,TGT,stock,Target Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2354,,TEL,stock,TE Connectivity Ltd.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2355,,FTI,stock,TechnipFMC,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2356,,TFX,stock,Teleflex,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2357,,TXN,stock,Texas Instruments,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2358,,TXT,stock,Textron Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2359,,TMO,stock,Thermo Fisher Scientific,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2360,,TIF,stock,Tiffany & Co.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2361,,TWTR,stock,"Twitter, Inc.",Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2362,,TJX,stock,TJX Companies Inc.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2363,,TMK,stock,Torchmark Corp.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2364,,TSS,stock,Total System Services,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2365,,TSCO,stock,Tractor Supply Company,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2366,,TDG,stock,TransDigm Group,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2367,,TRV,stock,The Travelers Companies Inc.,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2368,,TRIP,stock,TripAdvisor,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2369,,TSN,stock,Tyson Foods,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2370,,UDR,stock,"UDR, Inc.",Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2371,,ULTA,stock,Ulta Beauty,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2372,,USB,stock,U.S. Bancorp,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2373,,UAA,stock,Under Armour Class A,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2374,,UA,stock,Under Armour Class C,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2375,,UNP,stock,Union Pacific Corp,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2376,,UAL,stock,United Airlines Holdings,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2377,,UNH,stock,United Health Group Inc.,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2378,,UPS,stock,United Parcel Service,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2379,,URI,stock,"United Rentals, Inc.",Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2380,,UTX,stock,United Technologies,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2381,,UHS,stock,"Universal Health Services, Inc.",Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2382,,UNM,stock,Unum Group,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2383,,VFC,stock,V.F. Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2384,,VLO,stock,Valero Energy,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2385,,VAR,stock,Varian Medical Systems,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2386,,VTR,stock,Ventas Inc,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2387,,VRSN,stock,Verisign Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2388,,VRSK,stock,Verisk Analytics,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2389,,VZ,stock,Verizon Communications,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2390,,VRTX,stock,Vertex Pharmaceuticals Inc,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2391,,VIAB,stock,Viacom Inc.,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2392,,V,stock,Visa Inc.,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2393,,VNO,stock,Vornado Realty Trust,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2394,,VMC,stock,Vulcan Materials,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2395,,WAB,stock,Wabtec Corporation,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2396,,WMT,stock,Walmart,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2397,,WBA,stock,Walgreens Boots Alliance,Consumer Staples,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2398,,DIS,stock,The Walt Disney Company,Communication Services,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2399,,WM,stock,Waste Management Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2400,,WAT,stock,Waters Corporation,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2401,,WEC,stock,Wec Energy Group Inc,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2402,,WCG,stock,WellCare,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2403,,WFC,stock,Wells Fargo,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2404,,WELL,stock,Welltower Inc.,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2405,,WDC,stock,Western Digital,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2406,,WU,stock,Western Union Co,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2407,,WRK,stock,WestRock,Materials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2408,,WY,stock,Weyerhaeuser,Real Estate,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2409,,WHR,stock,Whirlpool Corp.,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2410,,WMB,stock,Williams Cos.,Energy,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2411,,WLTW,stock,Willis Towers Watson,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2412,,WYNN,stock,Wynn Resorts Ltd,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2413,,XEL,stock,Xcel Energy Inc,Utilities,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2414,,XRX,stock,Xerox,Information Technology,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2415,,XYL,stock,Xylem Inc.,Industrials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2416,,YUM,stock,Yum! Brands Inc,Consumer Discretionary,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2417,,ZBH,stock,Zimmer Biomet Holdings,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2418,,ZION,stock,Zions Bancorp,Financials,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2419,,ZTS,stock,Zoetis,Health Care,USD,2019-08-16 04:37:46,2019-08-16 04:37:46
+2424,,^DJI,index,^DJI,None,USD,2019-08-17 03:46:39,2019-08-17 03:46:39
+2425,,^GSPC,index,^GSPC,None,USD,2019-08-17 03:46:39,2019-08-17 03:46:39
+2426,,^IXIC,index,^IXIC,None,USD,2019-08-17 03:46:39,2019-08-17 03:46:39
+2427,,^RUT,index,^RUT,None,USD,2019-08-17 03:46:39,2019-08-17 03:46:39
+2428,,^VIX,index,^VIX,None,USD,2019-08-17 03:46:39,2019-08-17 03:46:39
+2429,,^TNX,index,^TNX,None,USD,2019-08-17 03:46:39,2019-08-17 03:46:39
+2430,,^TYX,index,^TYX,None,USD,2019-08-17 03:46:39,2019-08-17 03:46:39

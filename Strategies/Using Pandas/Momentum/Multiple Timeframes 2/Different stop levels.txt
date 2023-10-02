@@ -1,0 +1,31 @@
+80% individual stop:
+Cumulative Return   7,668.32%   586.00%
+CAGR﹪              40.33%      16.17%
+
+50% individual stop:
+Cumulative Return   6,893.52%   586.00%
+CAGR﹪              39.19%      16.17%
+
+40% individual stop:
+Cumulative Return   7,318.68%   586.00%
+CAGR﹪              39.83%      16.17%
+
+30% individual stop:
+Cumulative Return   4,148.80%   586.00%
+CAGR﹪              33.89%      16.17%
+
+20% individual stop:
+Cumulative Return   2,693.99%   586.00%
+CAGR﹪              29.59%      16.17%
+
+15% individual stop:
+Cumulative Return   2,177.20%   586.00%
+CAGR﹪              27.54%      16.17%
+
+10% individual stop:
+Cumulative Return   2,625.56%   586.00%
+CAGR﹪              29.34%      16.17%
+
+5% individual stop:
+Cumulative Return   1,275.78%   586.00%
+CAGR﹪              22.64%      16.17%

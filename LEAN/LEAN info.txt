@@ -1,0 +1,62 @@
+
+Reference:
+LEAN project folder: /home/lantro/Documents/Algo Trading/LEAN/
+LEAN data folder; /home/lantro/Documents/Algo Trading/LEAN/data
+
+Installation:
+  Install Docker: https://docs.docker.com/engine/install/ubuntu/
+  Setup Docker group to be able to run as non-root user: https://docs.docker.com/engine/install/linux-postinstall/#manage-docker-as-a-non-root-user
+  Activate the "Algo" conda environment: "conda activate algo"
+  Install LEAN CLI: pip install lean
+  Create directory for LEAN projects: mkdir "/home/lantro/Documents/Algo Trading/LEAN"
+  Change to an empty directory: cd "/home/lantro/Documents/Algo Trading/LEAN"
+  Initialize LEAN: lean init
+
+Generate fake data: lean data generate --start 20180101 --symbol-count 1 --resolution=Daily
+  Get help for lean data generation: lean data generate --help
+  Note: generated data is added to the LEAN Docker image and can't be removed (that I know of).
+
+
+
+
+COMMANDS:
+Create a new project with starter code:  'lean create-project "My Project"'
+	Note: projects created in root of LEAN project folder.
+	To edit project, open LEAN folder in VSCode, then open the main.py script in the desired project's folder.
+Backtest a project locally with the data in data/:  'lean backtest "My Project"'
+Generate report of latest backtest:  'lean report'
+	Report exported to: '/home/lantro/Documents/Algo Trading/LEAN/report.html'
+Download all your QuantConnect projects to your local drive:  'lean cloud pull'
+
+
+
+MAINTENANCE:
+Updating LEAN: pip install --upgrade lean
+
+Build LEAN Docker image: lean build # Note: you may get an error about cloning Lean Github
+If you haven't changed the foundation Dockerfile, the CLI automatically skips building the custom foundation image and uses the official quantconnect/lean:foundation image instead. 
+
+Optional? Clone Lean from Github: "git clone https://github.com/QuantConnect/Lean"
+
+Display Docker images: docker images
+Delete Docker image: docker rmi image_name
+
+Information & Reference:
+How to backtest Quantconnect’s (LEAN) strategies locally using Yahoo data and Python
+https://medium.datadriveninvestor.com/how-to-backtest-quantconnects-lean-strategies-locally-using-yahoo-data-and-python-2b2ee0330a0b
+
+
+=======================================================================================
+Output from the init command:
+The following objects have been created:
+- lean.json contains the configuration used when running the LEAN engine locally
+- data/ contains the data that is used when running the LEAN engine locally
+
+The following documentation pages may be useful:
+- Setting up local autocomplete: 
+https://www.lean.io/docs/lean-cli/tutorials/local-autocomplete
+- Synchronizing projects with the cloud: 
+https://www.lean.io/docs/lean-cli/tutorials/cloud-synchronization
+
+
+

@@ -1,0 +1,2 @@
+rebal_int,qty_long,qty_med,qty_short,SMA_S,SMA_L,stop,rolling_l,rolling_m,rolling_s,tot_ret,cagr,sharpe,perf_score,max_dd
+3,32,20,10,9,139,0,34,16,8,20.04,0.28,8.75,175.35,-0.16

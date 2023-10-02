@@ -1,0 +1,57 @@
+
+
+Original Momentum Strategy:
+    Daily prices resampled to monthly
+    Rolling averages created using monthly prices for specified lookback period
+    Iterate through monthly returns for lookback period
+        Consider only stocks with positive returns 
+        Select 2 stocks with highest returns
+        Our "winning return" will be the AVERAGE return for the following month of the selected stocks
+        Add winning return to returns dictionary.
+    Convert returns dictionary to pandas series for analysis using quantstats.
+    Calculate statistics
+
+Momentum Strategy with trailing stop:
+    Option 1:
+        Loop through normal strategy for picking stocks at regular monthly intervals.
+        Once we know which stocks will be picked, we'll run through the daily data for the following month.
+        Then determine then trailing stop based on the highest cumulative return for the month.
+        If the stock drops by more than the stop amount, we'll set the price of that stock to 0 for the remainder of the month.
+        Next we'll calculate the return for the month, and add to the "returns" dictionary.
+        After all the periods are processed, we'll convert the returns dictionary to a pandas series for analysis.
+        Finally, we'll calculate statistics the same as in the original strategy, except with our adjusted returns data.
+
+def trailing_stop_stuff(all_daily_ret, winning_returns_df, stop_loss, rebalance_period='monthly'):
+    peak_return = 0 # This is to keep track of highest total return
+    cum_ret = 0
+    stop_loss_level = cum_ret - stop_loss
+
+    # This is where we need to evalulate the daily returns for the month represented by win_ret.
+        # If daily cumulative return of any stock goes below our stop loss amount,
+        # set the remainder of the return values for that stock for the period = 0 or the low risk investment return
+        # create new win_ret using our modified return values
+        ## NOTE:  I think we're doing this wrong, since I think we want our "period" to be represented by the 
+        # rebalance period: 1 month, not the lookback period
+
+    for row in range(len(winning_returns_df)-1): # go through daily return for entire rolling lookback period
+        last_date = (all_mtl_ret_lb.iloc[row].name)
+        first_date = last_date - MonthEnd(lookback)
+        print(f'{lookback} Month Rolling Period:  {first_date.date()} - {last_date.date()},  Stocks:  {(",").join(win_ret.index.values)}')
+        win_ret_daily = all_daily_ret.loc[(first_date.date()):(last_date.date()), win.index.values]
+        curr_date = win_ret_daily.iloc[row].name
+        period_ret = win_ret_daily.iloc[row].sum()
+        #print(f'period_ret:  {period_ret}')
+        cum_ret += period_ret
+        if cum_ret > peak_return:
+            peak_return = cum_ret
+            print(f'{curr_date}\tPeak return:  {peak_return}')
+            stop_loss_level = peak_return - stop_loss
+            print(f'{curr_date}\tstop_loss_level:  {stop_loss_level}')
+        elif cum_ret <= stop_loss_level:
+            print(f'{curr_date}\tCumulative return ({cum_ret}) < stop loss level ({stop_loss_level})  SELL!')
+    for row in returns_df[:5]:
+        print(returns_df.name)
+    
+
+
+trailing_stop(returns_df, rebalance_period)

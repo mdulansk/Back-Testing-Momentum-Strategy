@@ -1,0 +1,21 @@
+Current Implmentation:
+
+Dataclass parameter_data
+parameter_data.parameter_combos = [] # hold list of param combos
+parameter_data.static_parameters = {} # Dict which references parameter_data dataclass attr
+parameter_data.params_to_optimize = {} # Dict which references parameter_data dataclass attr
+
+optimize function:
+parameter_data.parameter_combos=[] # Not sure why we're referencing dataclass attribute instead of local var
+params_to_optimize = parameter_data.params_to_optimize.copy() # Make copy of class attr
+static_parameters = parameter_data.static_parameters.copy() # Make copy of class attr
+
+Problem: params_to_optimize dict in class references other class attr. When those attr get updated, it isn't reflected in params_to_optimize values.
+
+Possible Solutions:
+1. Use dataclass __dict__ attribute to access each attribute and update if key included in params_to_optimize list? sample.__dict__.update({ 'field1': 'value1' })
+2. Find way to update variables after initialization?
+3. Change implmentation so that params_to_optimize is a list, then each run of optimize, we iterate through attributes and update only if name included in params_to_optimize list? 
+
+
+New implementation

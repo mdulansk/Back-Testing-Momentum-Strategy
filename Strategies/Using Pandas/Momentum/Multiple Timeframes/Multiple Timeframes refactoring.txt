@@ -1,0 +1,52 @@
+
+Modules:
+    User Input
+        Functions:
+            get_parameters <- this is where we'll get the starting parameters to run / optimize
+
+    GetData
+        Functions:
+            def get_benchmark_data(returns_df,parameter_data):
+            def get_nasdaq_tickers(parameter_data):
+            def get_user_tickers(parameter_data):
+            def get_price_data(parameter_data):
+            def get_rolling_ret(df, lookback):
+    Optimization
+        Functions:
+            def task(args):
+            def create_new_param_vals(current_val, pct):
+            def set_best_parameters(parameter_data,performance_data):
+            def optimize(price_data,parameter_data,performance_data):
+            def optimize2(price_data,parameter_data,performance_data):
+    Strategy
+        Functions:
+            def strategy(parameter_combos):
+            def get_top_tickers(date,top_n,rolling_returns):
+            def get_top_tickers_reversed(date,rolling_long, rolling_med, rolling_short):
+    Signals
+        Functions:
+            def generate_signals(benchmark_price_df, SMA_short, SMA_long):
+    RiskManagement
+        Functions:
+            def fixed_stop(period_daily_ret, stop, stop_type='avg'):
+            def trailing_stop(period_daily_ret, stop, stop_type='avg'):
+    Analysis
+        Functions:
+            def plot_signals(signals_df):
+            def calc_stats(returns, name):
+            def plot_returns(return_series,benchmark_return_series):
+            def plot_parameters(performance_series, parameter_series):
+    
+            
+Revision 1 (messy): Separate functions into modules, but continue to use dataclasses instead of classes. We may need to create new dataclass instances in the
+ optimization function to hold the different parameter values and performance data, like highest performing parameters.
+def main():
+    Import required Modules
+    Run get_parameters function to set defaults and get user parameters and update dataclass attributes.
+    Run GetData functions and assign return data to dataclass attributes.
+    Run optimize function, passing in dataclasses: DataClassParameters, DataClassPriceData, and DataClassPerformanceData
+    
+    
+Revision 2: Separate functions into modules, but use regular classes for strategy and initialize with required attributes instead of passing list of dataclasses. 
+Set class attributes for parameters from values obtained by get_parameters function. In optimization function, spawn multiple strategy class instances, 
+each with their own unique parameter values for those parameters which are changed as well as original values for static parameters. Store highest performace stats and parameters in class attributes.

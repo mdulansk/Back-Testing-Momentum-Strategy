@@ -1,0 +1,56 @@
+Current strategy functionality:
+    iterate over all period dates -1
+        check if market in uptrend
+        last_period_end = date for current period
+        period_start = last_period_end + DateOffset(days=1)
+        period_end = date+MonthEnd(1)
+        Get list of current_tickers which are in the Nasdaq index
+        get_top_tickers for current index members for last_period_end
+        portfolio_month_ret = period_returns.loc[date:, top_tickers][1:2] # Get returns for month following the one passed by slicing the dataframe
+        curr_ret = portfolio_month_ret.mean(axis=1).values[0] # Current return is average of portfolio indiv returns
+        append curr_ret to returns list
+    Create returns series from list of returns
+    Convert to simple returns and assign to strategy instance attribute
+
+New strategy Functionality:
+Instead of trying to set start and end dates based on index and index offsets which may not align 
+with the resampled returns dataframe, use positional index to iterate through the df, and set start / end index & dates from 
+index/name of from the actual returns dataframe.
+    for i in range(0, len(period_returns)-(1+rebalance_interval), rebalance_interval) # iterate over all periods -(1+rebalance interval) using step = rebalance interval # Avoid trying to access beyond the end of our dataframe
+        check if market in uptrend
+        last_period_end_idx = i
+        period_start_idx = last_period_end + (1)
+        period_end_idx = period_start + rebalance interval
+        Get list of current_tickers which are in the Nasdaq index
+        get_top_tickers for current index members for last_period_end index
+        portfolio_period_return = period_returns.loc[period_start_date:period_end_date, top_tickers]
+        curr_ret = portfolio_month_ret.mean(axis=1).values[0] # Current return is average of portfolio indiv returns
+        append curr_ret to returns list
+    Create returns series from list of returns
+    Convert to simple returns and assign to strategy instance attribute
+
+
+==================================
+
+strategy()
+
+set row_index = rebalance_interval
+
+iterate through period_returns dataframe by row_index:
+    for i in range(len(period_returns[:-1]))
+                 AAL      AAPL  ABNB      ADBE       ADI       ADP      ADSK  ...      WYNN       XEL  XMSR      XRAY   ZM   ZS  CASH
+Date                                                                          ...                                                    
+2010-01-10  0.074901 -0.010794   0.0 -0.010843 -0.005651 -0.009503  0.022724  ...  0.059895 -0.014069   0.0  0.007694  0.0  0.0   0.0
+2010-01-17  0.067755 -0.028304   0.0 -0.022603 -0.084083 -0.003679 -0.006878  ...  0.037449  0.029392   0.0  0.009762  0.0  0.0   0.0
+2010-01-24 -0.049368 -0.040689   0.0 -0.042426 -0.042127 -0.026140 -0.038301  ... -0.097345 -0.027158   0.0 -0.042797  0.0  0.0   0.0
+2010-01-31  0.014071 -0.028646   0.0 -0.062408 -0.029104 -0.009504 -0.053603  ... -0.032949 -0.002981   0.0 -0.026977  0.0  0.0   0.0
+2010-02-07  0.102362  0.016950   0.0  0.014446 -0.002549 -0.012685 -0.030732  ... -0.008410 -0.031845   0.0 -0.025385  0.0  0.0   0.0
+
+if modulo of row_index / rebalance_interval = 0
+    last_end_index = row_index
+    start_index = row_index + 1
+    start_date = period_returns.iloc[start_index].name # The date is the name of the series returned by iloc
+    end_index = numpy.min(np.array(len(period_returns[:-1],start_index + rebalance_interval))) # Set end index to lesser of start + interval, or the end of array index
+    end_date = period_returns.iloc[end_index].name # The date is the name of the series returned by iloc
+
+Weekly rebalance problem: not ending on end of week?

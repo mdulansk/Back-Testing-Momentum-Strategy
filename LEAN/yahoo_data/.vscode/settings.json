@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/lantro/miniconda3/envs/algo/bin/python",
+    "python.languageServer": "Pylance"
+}

@@ -1,0 +1,32 @@
+Moving Average Strategies - Financial Wisdom
+From "5 Best moving average strategies (That beat buy and hold)" by Financial Wisdom
+
+Benchmark:
+	Period: 2000-2016
+	Instrument: SP500
+	Return: 104%
+	Max Drawdown: -55.2%
+
+1. Simple 200 DAY MA
+	Return: 317%
+	Max Drawdown: -17.3%
+	Instrument: SP500
+	Trade Frequency: Monthly (end of month)
+	BUY if SP500 above 200 day EMA at end of month
+	SELL when SP500 is below 200 day EMA at end of month
+	
+2. 250 DAY DMA
+	Results: 128%, max DD -23%
+	Instrument: SP500
+	Trade Frequency: daily
+	BUY: when daily price closes above 250 day MA
+	SELL: when daily price closes below 250 day MA
+	
+3. Moving Average Crossover 50/200
+	Results: 205%, max DD -19.2%
+	Instrument: SP500
+	Frequency:  daily
+	BUY: when 50 MA crosses above 200 day MA
+	SELL: when 50 MA crosses below 200 day MA
+	
+4. 

@@ -1,0 +1,22 @@
+
+Top performance:
+         top_n  SMA_S  SMA_L  stop  rolling_l  rolling_m  rolling_s  tot_ret  cagr  sharpe  perf_score  max_dd
+0  (30, 20, 3)      9    139    80         12         12          1    40.03  0.34    5.63      225.37   -0.25
+1  (30, 20, 2)      9    139    80         12         12          1    44.98  0.35    4.99      224.45   -0.33
+2  (16, 20, 5)      9    139    80         12         12          1    28.80  0.30    6.17      177.70   -0.21
+3  (30, 16, 5)      9    139    80         12         12          1    28.80  0.30    6.17      177.70   -0.21
+
+------------------  ----------  -----------
+Start Period        2010-02-28  2010-02-28
+End Period          2022-12-31  2022-12-31
+Risk-Free Rate      0.0%        0.0%
+Time in Market      77.0%       100.0%
+
+Cumulative Return   6,427.41%   235.70%
+CAGR﹪              38.44%      9.89%
+
+Sharpe              5.93        3.69
+Prob. Sharpe Ratio  100.0%      99.72%
+Sortino             15.03       5.84
+Sortino/√2          10.63       4.13
+Omega               3.39        3.39
