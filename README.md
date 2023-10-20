@@ -1,6 +1,4 @@
-I apologize for the misunderstanding. Below is the entire content in a single markdown block:
 
-```markdown
 # Driehaus Inspired Backtesting Tool
 
 This project houses a unique backtesting tool inspired by the investment strategies of Richard Driehaus, known for his prowess in momentum investing. Utilizing a rich dataset spanning 20 years, this tool allows users to rigorously test and optimize momentum investing strategies to unveil potent insights and enhance investment decision-making.
