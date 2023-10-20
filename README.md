@@ -57,4 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Richard Driehaus for the inspirational momentum investing strategies.
 - The community for the continuous support and contributions towards the betterment of this project.
-```
